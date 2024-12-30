@@ -1,0 +1,10 @@
+arch-install-scripts
+base
+dosfstools
+linux
+mkinitcpio
+mkinitcpio-archiso
+openssh
+pv
+syslinux
+vim
